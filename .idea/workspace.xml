@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33cb72b6-ddf0-49e5-8eff-893aa7d220c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/VideoDetail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/VideoItem.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/videos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/videos.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/VideoList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/VideoDetail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/VideoDetail.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/VideoDetail.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -260,7 +255,7 @@
       <updated>1545143928499</updated>
       <workItem from="1545143931084" duration="2095000" />
       <workItem from="1545150170074" duration="9324000" />
-      <workItem from="1545505649398" duration="4606000" />
+      <workItem from="1545505649398" duration="4975000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1545147648931</created>
@@ -283,11 +278,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545506462331</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="setting up video detail with description">
+      <created>1545517607750</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545517607750</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16025000" />
+    <option name="totallyTimeSpent" value="16394000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -329,7 +331,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="create searchBar" />
     <MESSAGE value="create scaffold video list and video item compoentns" />
-    <option name="LAST_COMMIT_MESSAGE" value="create scaffold video list and video item compoentns" />
+    <MESSAGE value="setting up video detail with description" />
+    <option name="LAST_COMMIT_MESSAGE" value="setting up video detail with description" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -428,7 +431,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/VideoDetail.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
         </state>
       </provider>
     </entry>
